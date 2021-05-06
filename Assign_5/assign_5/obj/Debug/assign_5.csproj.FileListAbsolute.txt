@@ -1,0 +1,9 @@
+C:\Users\abodn\source\repos\assign_5\assign_5\obj\Debug\assign_5.csprojAssemblyReference.cache
+C:\Users\abodn\source\repos\assign_5\assign_5\obj\Debug\assign_5.Form1.resources
+C:\Users\abodn\source\repos\assign_5\assign_5\obj\Debug\assign_5.Properties.Resources.resources
+C:\Users\abodn\source\repos\assign_5\assign_5\obj\Debug\assign_5.csproj.GenerateResource.cache
+C:\Users\abodn\source\repos\assign_5\assign_5\bin\Debug\assign_5.exe.config
+C:\Users\abodn\source\repos\assign_5\assign_5\bin\Debug\assign_5.exe
+C:\Users\abodn\source\repos\assign_5\assign_5\bin\Debug\assign_5.pdb
+C:\Users\abodn\source\repos\assign_5\assign_5\obj\Debug\assign_5.exe
+C:\Users\abodn\source\repos\assign_5\assign_5\obj\Debug\assign_5.pdb

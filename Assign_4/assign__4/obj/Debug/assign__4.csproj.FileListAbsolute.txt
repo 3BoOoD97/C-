@@ -1,0 +1,9 @@
+C:\Users\abodn\source\repos\assign__4\assign__4\bin\Debug\assign__4.exe.config
+C:\Users\abodn\source\repos\assign__4\assign__4\bin\Debug\assign__4.exe
+C:\Users\abodn\source\repos\assign__4\assign__4\bin\Debug\assign__4.pdb
+C:\Users\abodn\source\repos\assign__4\assign__4\obj\Debug\assign__4.csprojAssemblyReference.cache
+C:\Users\abodn\source\repos\assign__4\assign__4\obj\Debug\assign__4.FormMain.resources
+C:\Users\abodn\source\repos\assign__4\assign__4\obj\Debug\assign__4.Properties.Resources.resources
+C:\Users\abodn\source\repos\assign__4\assign__4\obj\Debug\assign__4.csproj.GenerateResource.cache
+C:\Users\abodn\source\repos\assign__4\assign__4\obj\Debug\assign__4.exe
+C:\Users\abodn\source\repos\assign__4\assign__4\obj\Debug\assign__4.pdb
